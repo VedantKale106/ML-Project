@@ -1,4 +1,4 @@
-# Pune Rent Predictor[https://rentwizardd.streamlit.app/]
+# [Pune Rent Predictor](https://rentwizardd.streamlit.app/)
 
 This Streamlit web application predicts rental prices for properties in Pune, India, using a machine learning model. It provides an intuitive interface for users to input property details and receive estimated rental values.
 
